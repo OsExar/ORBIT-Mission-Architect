@@ -300,8 +300,10 @@ The team defined the game design, selected the sources, tested the builds and is
 
 | Member | Role |
 |---|---|
-| _Name_ | _Role_ |
-| _Name_ | _Role_ |
+| _Exar_ | _Lead Designer_ |
+| _Johan_ | _Mission Data Analyst_ |
+| _Amy_ | _Documentation & Feasibility Analyst_ |
+| _ELiel_ | _Technical Researcher_ |
 
 NASA Space Apps Challenge 2026 · <!-- local event / city -->
 
